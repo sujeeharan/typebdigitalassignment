@@ -1,5 +1,6 @@
 package digital.typeb.assignment;
 
+import digital.typeb.assignment.controller.HelloController;
 import org.junit.jupiter.api.Test;
 import org.springframework.http.ResponseEntity;
 
