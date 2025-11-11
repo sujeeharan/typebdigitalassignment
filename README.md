@@ -19,3 +19,7 @@ It responds differently based on the first letter of the `name` parameter.
 ## Run the Application
 ```bash
 mvn spring-boot:run
+
+## Run the tests
+```bash
+mvn test
